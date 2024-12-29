@@ -1,7 +1,7 @@
 ## Worldwide LTD Product and Sales Analysis
 
 ## Executive Summary
-This report provides key insights into customer behavior, product performance, supplier data, and sales trends using the WideWorldImporters database.
+This report provides key insights into customer behavior, product performance, supplier data, and sales trends using the WorldWide Importers database.
 
 ## Task
 This project is a part of Genration UK and Ireland intensive Bootcamp Program 
